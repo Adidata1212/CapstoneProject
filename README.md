@@ -3,11 +3,11 @@
 
 * Main aim of the Project was to perform Exploratory Data Analysis and Perform cleaning and perform predictions from the Corona Dataset.
 * Perfomed Data Cleaning ,Data Collection  and Analysis with Python libraries such as Pandas, NumPy, Seaborn and Matplotlib
-* Dataset of Project
-  [Dataset]
+* Dataset of Project : [Dataset](https://github.com/Adidata1212/CapstoneProject/blob/main/corona_tested_006.csv)
+* Data Analysis Using Python :
   [PROJECT-FILE](https://github.com/Adidata1212/CapstoneProject/blob/main/Covid_19.ipynb)
 
-* Data Analysis Using MySQL
+* Data Analysis Using MySQL :
   [SQl-File](https://github.com/Adidata1212/CapstoneProject/blob/main/MySQL%20Corona_Db.sql)
 
 
